@@ -55,7 +55,7 @@ ul {
   flex-grow: 1
 }
 
-.task-row-wrapper {
+.main-task__wrapper {
   display: flex;
 }
 
